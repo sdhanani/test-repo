@@ -3,4 +3,5 @@ ilya was here
 
 This line was created locally
 
+<<<<<<< HEAD
 This is my local conflict.
