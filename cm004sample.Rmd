@@ -1,10 +1,6 @@
 ---
 title: "cmOO4"
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
-  word_document: default
+output: github_document
 ---
 # Level 1 header
 ## This is my level 2 header
