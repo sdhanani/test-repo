@@ -2,3 +2,5 @@ New repo! Using this to play with git/github for STAT 545 during live coding ses
 ilya was here
 
 This line was created locally
+
+This is my local conflict.
